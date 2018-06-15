@@ -1,0 +1,214 @@
+*{
+    margin: 0px;
+    padding: 0;
+   }
+   .ima1{
+   width:1490px;
+   height:800px;
+   position: absolute;
+   z-index:-1;
+   }
+   .ima2{
+   position:absolute;
+   left:200px;
+   width: 90px;
+   height: 40px;
+   top:60px;
+   z-index:5;
+   }
+   .m1{
+    position:absolute;
+    left:1200px;
+    background-color: white;
+    width: 40px;
+    height: 05px;
+    top:60px;
+    z-index:5;
+    }   
+   
+    .m2{
+        position:absolute;
+        left:1200px;
+        background-color: white;
+        width: 40px;
+        height: 05px;
+        top:70px;
+        z-index:5;
+        }   
+        .m3{
+            position:absolute;
+            left:1200px;
+            background-color: white;
+            width: 40px;
+            height: 05px;
+            top:80px;
+            z-index:5;
+            }   
+
+            H2{
+                position:absolute;
+                left:1135px;
+                color: white;
+                width: 40px;
+                height: 05px;
+                top:65px;
+                z-index:5;
+                font-family:'Nunito', sans-serif;
+                font-size: 16px;
+                } 
+                .contenedor{
+                    position: relative ;
+                    display: inline-block;
+                    text-align: center;
+                }
+                 
+                .texto{
+                    position: absolute;
+                    left:210px;
+                    top: 280px;
+                    height: 1100px;
+                    width: 1200px;
+                    color: white;
+                    font-size: 45px;
+                    font-family:'Nunito', sans-serif;
+                    text-align: left;           
+                }
+                .cua1{
+                    position:absolute;
+                    left:210px;
+                   background-color: white;
+                    width: 200px;
+                    height: 60px;
+                    top:450px;
+                    z-index:5;
+                    transition-property: background-color;
+                    transition-delay: 0.4s;
+                    transition-duration: 0.1s;
+                    } 
+                    
+                    .cua2{
+                        position:absolute;
+                        left:430px;
+                        width: 198px;
+                        height: 57px;
+                        top:450px;
+                        z-index:5;
+                        border:2px solid;
+                        border-color:white;
+                        transition-property: border-color;
+                        transition-delay: 0.4s;
+                        transition-duration: 0.1s;
+                        } 
+                        .td1{
+                            position: absolute;
+                            left: 50px;
+                            top: 20px;
+                            color:#9AE5FF;
+                            font-size: 15px;
+                            font-family:'Nunito', sans-serif;    
+                            transition-property: color;
+                            transition-delay: 0.1s;
+                            transition-duration: 0.2s;
+
+
+                        }
+                        .td2{
+                            position: absolute;
+                            left: 60px;
+                            top: 20px;
+                            color:white;
+                            font-size: 15px;
+                            font-family:'Nunito', sans-serif; 
+                            transition-property: color;
+                            transition-delay: 0.1s;
+                            transition-duration: 0.2s;
+            
+                        }
+
+                        .cua1:hover  {
+                         background-color: #9AE5FF;   
+                        }
+                        .td1:hover {
+                         color:white;
+                        }
+                        
+                        .cua2:hover {
+                            border-color: #9AE5FF;
+                        }
+                        .td2:hover{
+                            color:#9AE5FF;  
+                        }   
+                      
+                        .rv{
+                         position: absolute;
+                         width: 1450px;
+                         height: 200px;
+                         background-color:white;
+                         top: 800px;
+                       }
+                       .imv{
+                        position: absolute;
+                        top:80px;
+                        left:580px;
+                        width: 50px;
+                        height: 50px;
+                       }
+                       .tv{
+                         position: absolute;
+                         top:90px;
+                         left:650px; 
+                         color:black;
+                         font-size: 25px;
+                         font-family:'Nunito', sans-serif; 
+                         transition-property: color; 
+                       }
+                       .ima3{
+                            position: absolute;
+                            top: 1000px;
+                       }
+                       .ite{
+                          position: absolute;
+                          top: 1000px;
+                          left: 800px; 
+                          width: 687px;
+                          height: 400px;
+                          background-color:#064B77;
+                       }
+                       .tex1{
+                        position: absolute;
+                        left: 85px;
+                        top: 60px;
+                        color:white;
+                        font-size: 22px;
+                        font-family:'Nunito', sans-serif; 
+                       
+         
+                       }
+                       .tex2{
+                        position: absolute;
+                        left: 85px;
+                        top: 100px;
+                        color:white;
+                        font-size: 16px;
+                        font-family:'Nunito', sans-serif; 
+                       
+         
+                       }
+                           
+                       .tex3{
+                        position: absolute;
+                        left: 85px;
+                        top: 170px;
+                        color:#9AE5FF;
+                        font-size: 14px;
+                        font-family:'Nunito', sans-serif; 
+                       
+         
+                       }
+                           
+  
+                           
+  
+                
+                
+            
